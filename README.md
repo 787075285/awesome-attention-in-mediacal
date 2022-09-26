@@ -36,13 +36,21 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 ### ...
 
-**Arxiv**
+**Medical Image Classiﬁcation**
 
-[2022][Test Time Transform Prediction for Open Set Histopathological Image Recognition](https://arxiv.org/abs/2206.10033) [code](https://github.com/agaldran/t3po)
+**Breast Lesion Classiﬁcation**
 
-[2022][Open-Set Recognition of Breast Cancer Treatments](https://arxiv.org/abs/2201.02923)
+[Vision Transformer for Classification of Breast Ultrasound Images](https://arxiv.org/abs/2110.14731) 
 
-[2019][Open Set Medical Diagnosis](https://arxiv.org/abs/1910.02830)
+**COVID-19 Classiﬁcation**
+
+[Accurate screening of covid-19 using attention-based deep 3d multiple instance learning](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9098062)
+
+[A lightweight transformer architecture for detection of covid-19 using point of care ultrasound](https://arxiv.org/ftp/arxiv/papers/2105/2105.09913.pdf)
+
+[COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer](https://arxiv.org/abs/2110.08427)
+
+[Auto-Diagnosis of COVID-19 Using Lung CT Images With Semi-Supervised Shallow Learning Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352732)
 
 **Coference**
 
