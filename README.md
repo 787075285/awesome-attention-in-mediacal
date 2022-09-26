@@ -92,18 +92,27 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 [Encoding retina image to words using ensemble of vision transformers for diabetic retinopathy grading](https://pubmed.ncbi.nlm.nih.gov/34693536/)
 
-[Fundus disease image classiﬁcation based on improved transformer](Fundus disease image classiﬁcation based on improved transformer)
+[Fundus disease image classiﬁcation based on improved transformer](https://www.researchgate.net/publication/329816608_Fundus_image_classification_using_VGG-19_architecture_with_PCA_and_SVD)
 
+**Miscellaneous Classiﬁcation Tasks**
 
-**Coference**
+[Progressive growing channel attentive non-local network for lung nodule classiﬁcation.](https://www.sciencedirect.com/science/article/pii/S0031320321004891HTTPS//linkinghub.elsevier.com/retrieve/pii/S0031320321004891)
 
-[CVPR 2022][SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2203.15202)
+[Attention based deep multiple instance learning approach for lung cancer prediction using histopathological images](https://paperhost.org/proceedings/embs/EMBC21/files/0359.pdf)
 
-[ECCV 2018][Bayesian Semantic Instance Segmentation in Open Set World](https://arxiv.org/abs/1806.00911)
+[Automatic depression recognition using cnn with attention mechanism from videos](https://www.sciencedirect.com/science/article/pii/S0925231220315101)
 
-## Open set in anomaly detection
+[Transmed: Transformers advance multi-modal medical image classiﬁcation](https://www.researchgate.net/publication/349963150_TransMed_Transformers_Advance_Multi-modal_Medical_Image_Classification)
 
-### ...
+[Soft Attention Improves Skin Cancer Classiﬁcation Performance](https://arxiv.org/pdf/2105.03358.pdf)
+
+[Scopeformer: n-cnn-vit hybrid model for intracranial hemorrhage classiﬁcation](https://arxiv.org/abs/2107.04575)
+
+[Xception:Deep learning with depthwise separable convolutions](https://arxiv.org/abs/1610.02357)
+
+[Computer-aided diagnosis of alzheimer’s disease through weak supervision deep learning framework with attention mechanism](https://www.researchgate.net/publication/348142061_Computer-Aided_Diagnosis_of_Alzheimer%27s_Disease_through_Weak_Supervision_Deep_Learning_Framework_with_Attention_Mechanism)
+
+[Deep residual learning for image recognition](Deep residual learning for image recognition)
 
 **Arxiv**
 
