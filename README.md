@@ -52,13 +52,34 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 [Auto-Diagnosis of COVID-19 Using Lung CT Images With Semi-Supervised Shallow Learning Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9352732)
 
-**Coference**
+[Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training](https://openreview.net/pdf?id=Ggikq6Tdxch)
 
-[MICCAI 2022][Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis](...)
+[Visual Transformer with Statistical Test for COVID-19 Classification](https://arxiv.org/abs/2107.05334)
 
-[MICCAI 2018][Evaluation of Various Open-Set Medical Imaging Tasks with Deep Neural Networks](https://arxiv.org/abs/2110.10888)
+[A transformer-based framework for automatic COVID19 diagnosis in chest CTs](https://openaccess.thecvf.com/content/ICCV2021W/MIA-COV19D/papers/Zhang_A_Transformer-Based_Framework_for_Automatic_COVID19_Diagnosis_in_Chest_CTs_ICCVW_2021_paper.pdf)
 
-[ACM 2022][SODA: Detecting Covid-19 in Chest X-rays with Semi-supervised Open Set Domain Adaptation](https://arxiv.org/abs/2005.11003)
+[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+
+[Explainable vision transformer based covid-19 screening using radiography](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8691725&blobtype=pdf)
+
+[COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models](https://arxiv.org/abs/2107.01682)
+
+[Covid-transformer: Interpretable covid-19 detection using vision transformer for healthcare](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8583247&blobtype=pdf)
+
+[Vision transformer forcovid-19 detection in ct scan imageswith self-attention gan fordataaugmentation.](https://www.researchgate.net/publication/354506498_COViT-GAN_Vision_Transformer_forCOVID-19_Detection_in_CT_Scan_Imageswith_Self-Attention_GAN_for_Data_Augmentation)
+
+[Multi-task vision transformer using low-level chest x-ray feature corpus for covid-19 diagnosis and severity quantiﬁcation](https://www.sciencedirect.com/science/article/pii/S1361841521003443)
+
+**Whole Slide Image Classiﬁcation**
+
+[Smile: Sparse-attention based multiple instance contrastive learning for glioma sub-type classiﬁcation using pathological images](https://proceedings.mlr.press/v156/lu21a/lu21a.pdf)
+
+[GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathological Image Detection](https://arxiv.org/abs/2104.14528)
+
+[Method for diagnosis of acute lymphoblastic leukemia based on vit-cnn ensemble model](https://www.hindawi.com/journals/cin/2021/7529893/)
+
+[A deep learning based graph transformer for whole slide image classiﬁcation](https://www.medrxiv.org/content/10.1101/2021.10.15.21265060v1)
+
 
 ## Open set in segmentation
 
