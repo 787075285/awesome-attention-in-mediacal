@@ -80,18 +80,20 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 [A deep learning based graph transformer for whole slide image classiﬁcation](https://www.medrxiv.org/content/10.1101/2021.10.15.21265060v1)
 
+**Retinal Disease Classiﬁcation**
 
-## Open set in segmentation
+[Composite deep neural network with gated-attention mechanism for diabetic retinopathy severity classiﬁcation](https://link.springer.com/content/pdf/10.1007/s12652-020-02727-z.pdf)
 
-### ...
+[Mil-vt:Multiple instance learning enhanced vision transformer for fundus image classiﬁcation](https://arxiv.org/abs/2006.14673)
 
-**Arxiv**
+[Lesion-aware transformers for diabetic retinopathy grading](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Sun_Lesion-Aware_Transformers_for_CVPR_2021_supplemental.pdf)
 
-[2022][Conditional Reconstruction for Open-set Semantic Segmentation](https://arxiv.org/abs/2203.01368)
+[Vision transformer-based recognition of diabetic retinopathy grade](https://worldscientific.com/doi/10.1142/S1793545822500092)
 
-[2020][Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673)
+[Encoding retina image to words using ensemble of vision transformers for diabetic retinopathy grading](https://pubmed.ncbi.nlm.nih.gov/34693536/)
 
-[2020][Towards Open-Set Semantic Segmentation of Aerial Images](https://arxiv.org/abs/2001.10063)
+[Fundus disease image classiﬁcation based on improved transformer](Fundus disease image classiﬁcation based on improved transformer)
+
 
 **Coference**
 
