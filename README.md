@@ -112,24 +112,31 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 [Computer-aided diagnosis of alzheimer’s disease through weak supervision deep learning framework with attention mechanism](https://www.researchgate.net/publication/348142061_Computer-Aided_Diagnosis_of_Alzheimer%27s_Disease_through_Weak_Supervision_Deep_Learning_Framework_with_Attention_Mechanism)
 
-[Deep residual learning for image recognition](Deep residual learning for image recognition)
+[Deep residual learning for image recognition](https://arxiv.org/abs/1512.03385v1)
 
-**Arxiv**
+### Medical Image Segmentation
 
-[2022][The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486)
+**Breast Lesion Segmentation**
 
-[2021][Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570)
+[Attention-enriched deep learning model for breast tumor segmentation in ultrasound images](https://arxiv.org/abs/1910.08978)
 
-**Coference**
+[Region aware transformer for automatic breast ultrasound tumor segmentation](https://openreview.net/forum?id=2bVDHzy7xwV)
 
-[ECCV 2022][DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition](https://arxiv.org/abs/2207.02606)
+[3d deep attentive u-net with transformer for breast tumor segmentation from automated breast volume scanner](https://link.springer.com/chapter/10.1007/978-3-030-11726-9_23)
 
-[CVPR 2022][Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection](https://arxiv.org/abs/2203.14506)
+**Computational Pathology**
 
-[CVPR 2022][UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection](https://arxiv.org/abs/2111.08644)
+[Attention-based transformers for instance segmentation of cells in microstructures](https://arxiv.org/abs/2104.14528)
 
-**Journal**
+[Multi-branch Convolutional Neural Network for Multiple Sclerosis Lesion Segmentation](https://arxiv.org/abs/1811.02942)
 
+[TransMIL:Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classiﬁcation](https://proceedings.neurips.cc/paper/2021/file/10c272d06794d3e5785d5e7c5356e9ff-Paper.pdf)
+
+[Evaluating transformer-based semantic segmentation networks for pathological image segmentation](https://doi.org/10.1117/12.2611177)
+
+[Spectr: Spectral transformer for hyperspectral pathology image segmentation](https://arxiv.org/abs/2103.03604)
+
+**Computational Pathology**
 
 ## Benchmarks
 
