@@ -136,8 +136,23 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 [Spectr: Spectral transformer for hyperspectral pathology image segmentation](https://arxiv.org/abs/2103.03604)
 
-**Computational Pathology**
+**Cardiac Segmentation**
 
+[Generalisable cardiac structure segmentation via attentional and stacked image adaptation](https://link.springer.com/content/pdf/10.1007/978-981-10-5092-3_6.pdf)
+
+[A generalizable deep-learning approach for cardiac magnetic resonance image segmentation using image augmentation and attention u-net](https://www.sciencedirect.com/science/article/pii/S1361841516000128)
+
+[Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)
+
+[Multi-centre, multi-vendor and multi-disease cardiac segmentation: the m&ms challenge](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458279)
+
+[Transbridge:A lightweight transformer for left ventricle segmentation in echocardiography](https://livrepository.liverpool.ac.uk/3140960/1/TransBridge%20%281%29.pdf)
+
+[Transunet: Transformers make strong encoders for medical image segmentation](https://arxiv.org/abs/2102.04306)
+
+[MISSFormer: An effective medical image segmentation transformer](https://arxiv.org/abs/2109.07162)
+
+[Unpaired image-to-image translation using cycle-consistent adversarial networks](https://arxiv.org/abs/1703.10593)
 ## Benchmarks
 
 # Library
