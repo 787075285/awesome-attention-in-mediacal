@@ -36,7 +36,7 @@ This repo is a collection of AWESOME things about attention machnism in medical,
 
 ### ...
 
-**Medical Image Classiﬁcation**
+### Medical Image Classiﬁcation
 
 **Breast Lesion Classiﬁcation**
 
